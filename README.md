@@ -10,3 +10,9 @@
 (x) Calcular área do triângulo
 (x) Mostrar área calculada
 ---------------------------------------------------------------------------------
+# Calcular área do Círculo
+(x) Criar váriaveis raio e área
+(x) Ler raio via argumentos
+(x) Calcular a área
+(x) Mostrar a área 
+---------------------------------------------------------------------------------
