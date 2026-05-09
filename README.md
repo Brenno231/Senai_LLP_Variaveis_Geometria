@@ -4,5 +4,9 @@
 (x) Calcular área do retângulo
 (x) Mostrar área calculada
 ---------------------------------------------------------------------------------
-
 # Calcular área triângulo
+(x) Criar variáveis base, altura e área
+(x) Scanner para ler base e altura
+(x) Calcular área do triângulo
+(x) Mostrar área calculada
+---------------------------------------------------------------------------------
