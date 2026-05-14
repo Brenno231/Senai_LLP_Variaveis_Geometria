@@ -21,3 +21,10 @@
 (x) ler comprimento, largura e altura via argumentos
 (x) Calcular a área de cada face e somá-las
 (x) Mostrar área da caixa
+---------------------------------------------------------------------------------
+# Calcular área da pirâmide
+(x) Criar variáveis areaDaBase, areaDoLado, areaTotal, alturaPiramide, ladoDaBase, apótema, tipoDeBase
+(x) Com o lado da base calcular a area da base
+(x) Com a altura da piramide calcular a apotema
+(x) Calcular a area dos triangulos laterais
+(x) Mostrar o resultado da área total
