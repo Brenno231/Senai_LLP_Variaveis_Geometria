@@ -1,6 +1,6 @@
 public class areaCaixa {
     public static void main(String[] args) {
-        if (args.length == 0) {
+        if (args.length < 3) {
             System.out.println("Por favor digite respectivamente o comprimento, a largura e a altura.");
             return;
         }
