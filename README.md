@@ -16,3 +16,8 @@
 (x) Calcular a área
 (x) Mostrar a área 
 ---------------------------------------------------------------------------------
+# Calcular área da caixa
+(x) Criar variáveis comprimento, largura e altura
+(x) ler comprimento, largura e altura via argumentos
+(x) Calcular a área de cada face e somá-las
+(x) Mostrar área da caixa
