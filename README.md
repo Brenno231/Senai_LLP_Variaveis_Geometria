@@ -28,3 +28,9 @@
 (x) Com a altura da piramide calcular a apotema
 (x) Calcular a area dos triangulos laterais
 (x) Mostrar o resultado da área total
+---------------------------------------------------------------------------------
+# Calcular área do tubo
+() Criar variável para raio, altura, áreaTubo
+() Calcular área do tubo
+() Mostrar área do tubo
+---------------------------------------------------------------------------------
