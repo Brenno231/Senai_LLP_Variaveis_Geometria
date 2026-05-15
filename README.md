@@ -30,7 +30,7 @@
 (x) Mostrar o resultado da área total
 ---------------------------------------------------------------------------------
 # Calcular área do tubo
-() Criar variável para raio, altura, áreaTubo
-() Calcular área do tubo
-() Mostrar área do tubo
+(x) Criar variável para raio, altura, áreaTubo
+(x) Calcular área do tubo
+(x) Mostrar área do tubo
 ---------------------------------------------------------------------------------
