@@ -2,6 +2,7 @@ public class areaBola {
     public static void main(String[] args) {
         if (args.length == 0){
             System.out.println("Digite o raio da Bola!!!!!!");
+            return;
         }
         double areaDaBola, raio;
         raio = Double.parseDouble(args[0]);

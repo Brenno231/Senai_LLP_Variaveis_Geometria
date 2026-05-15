@@ -2,6 +2,7 @@ public class areaTubo {
     public static void main(String[] args) {
         if(args.length < 2){
             System.out.println("Digite respectivamente o raio do tubo é a altura dele!!!!!!!!!");
+            return;
         }
         double areaDoTubo, raio, altura;
         raio = Double.parseDouble(args[0]);
